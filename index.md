@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/R7osa3lia/jiuyaoge/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="publish.css?20190328" />
+    <title>&#21776;&#26397;&#65;&#86;&#44;&#84;&#67;&#65;&#86;&#44;&#39640;&#28165;&#65;&#86;&#30427;&#23476;&#44;&#23613;&#22312;&#21776;&#26397;&#65;&#86;&#33;&#32;&#45;&#32;&#26368;&#26032;&#22320;&#22336;</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta content='width=device-width, initial-scale=1.0, user-scalable=0' name='viewport' />
+	<meta name="keywords" content="&#21776;&#26397;&#65;&#86;&#44;&#21776;&#26397;&#116;&#118;&#44;&#21776;&#26397;&#116;&#118;&#39640;&#28165;&#30427;&#23476;&#23613;&#22312;&#21776;&#26397;&#116;&#118;&#44;&#84;&#67;&#65;&#86;&#44;&#39640;&#28165;&#65;&#86;&#30427;&#23476;&#44;&#21776;&#26397;&#97;&#118;&#30427;&#23476;&#44;&#21776;&#26397;&#97;&#118;&#39640;&#28165;&#30427;&#23476;&#44;&#65;&#86;&#84;&#86;&#39640;&#28165;&#30427;&#23476;"/>
+	<meta name="description" content="&#21776;&#26397;&#65;&#86;&#44;&#84;&#67;&#65;&#86;&#44;&#39640;&#28165;&#65;&#86;&#30427;&#23476;&#44;&#23613;&#22312;&#21776;&#26397;&#65;&#86;&#33;&#29420;&#23478;&#23089;&#22280;&#22899;&#26143;&#29190;&#26009;&#21457;&#24067;&#28304;&#12290;&#21326;&#20154;&#22280;&#20013;&#26368;&#39640;&#28165;&#35270;&#39057;&#65292;&#20139;&#21463;&#23613;&#22312;&#20004;&#25163;&#20043;&#38388;"/>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <div id="main"></div>
+</body>
+<script type="text/javascript" src="publish.js?20190522"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-140660970-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/R7osa3lia/jiuyaoge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  gtag('config', 'UA-140660970-1');
+</script>
